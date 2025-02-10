@@ -1,0 +1,17 @@
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Infrastructure\bin\Debug\net8.0\Valhalla.Infrastructure.deps.json
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Infrastructure\bin\Debug\net8.0\Valhalla.Infrastructure.runtimeconfig.json
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Infrastructure\bin\Debug\net8.0\Valhalla.Infrastructure.dll
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Infrastructure\bin\Debug\net8.0\Valhalla.Infrastructure.pdb
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Infrastructure\bin\Debug\net8.0\Valhalla.Domain.dll
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Infrastructure\bin\Debug\net8.0\Valhalla.Domain.pdb
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Infrastructure\obj\Debug\net8.0\Valhalla.Infrastructure.csproj.AssemblyReference.cache
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Infrastructure\obj\Debug\net8.0\Valhalla.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Infrastructure\obj\Debug\net8.0\Valhalla.Infrastructure.AssemblyInfoInputs.cache
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Infrastructure\obj\Debug\net8.0\Valhalla.Infrastructure.AssemblyInfo.cs
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Infrastructure\obj\Debug\net8.0\Valhalla.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Infrastructure\obj\Debug\net8.0\Valhalla.9750C301.Up2Date
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Infrastructure\obj\Debug\net8.0\Valhalla.Infrastructure.dll
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Infrastructure\obj\Debug\net8.0\refint\Valhalla.Infrastructure.dll
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Infrastructure\obj\Debug\net8.0\Valhalla.Infrastructure.pdb
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Infrastructure\obj\Debug\net8.0\Valhalla.Infrastructure.genruntimeconfig.cache
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Infrastructure\obj\Debug\net8.0\ref\Valhalla.Infrastructure.dll

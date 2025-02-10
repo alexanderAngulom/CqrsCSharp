@@ -1,0 +1,15 @@
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Application\bin\Debug\net8.0\Valhalla.Application.deps.json
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Application\bin\Debug\net8.0\Valhalla.Application.dll
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Application\bin\Debug\net8.0\Valhalla.Application.pdb
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Application\bin\Debug\net8.0\Valhalla.Domain.dll
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Application\bin\Debug\net8.0\Valhalla.Domain.pdb
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Application\obj\Debug\net8.0\Valhalla.Application.csproj.AssemblyReference.cache
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Application\obj\Debug\net8.0\Valhalla.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Application\obj\Debug\net8.0\Valhalla.Application.AssemblyInfoInputs.cache
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Application\obj\Debug\net8.0\Valhalla.Application.AssemblyInfo.cs
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Application\obj\Debug\net8.0\Valhalla.Application.csproj.CoreCompileInputs.cache
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Application\obj\Debug\net8.0\Valhalla.8E6015AF.Up2Date
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Application\obj\Debug\net8.0\Valhalla.Application.dll
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Application\obj\Debug\net8.0\refint\Valhalla.Application.dll
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Application\obj\Debug\net8.0\Valhalla.Application.pdb
+C:\Develop\CSharp\Tests\Api\Vanhala\Valhalla.Application\obj\Debug\net8.0\ref\Valhalla.Application.dll
