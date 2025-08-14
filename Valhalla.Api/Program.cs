@@ -1,7 +1,7 @@
 using Valhalla.Api.Config.MediatR;
 using Valhalla.Api.Config.Swagger;
 using Valhalla.Api.Config.Transient;
-using Vanhala.API.Config.DataBase;
+using Valhalla.Api.Config.DataBase;
 
 var builder = WebApplication.CreateBuilder(args);
 

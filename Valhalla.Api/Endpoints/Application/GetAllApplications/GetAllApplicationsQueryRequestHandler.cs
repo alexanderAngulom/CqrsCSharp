@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Valhalla.Api.Endpoints.Application.Dto;
 using Valhalla.Application.Entities.Application.Queries.GetAllApplications;
 
-namespace Vanhala.API.Endpoints.Application.GetAllApplications;
+namespace Valhalla.Api.Endpoints.Application.GetAllApplications;
 
 [Route("api/applications")]
 [ApiController]
